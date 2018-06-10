@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">My Application1</string>
+    <string name="generateEasy">EASY</string>
+    <string name="generateMedium">MEDIUM</string>
+    <string name="generateHard">HARD</string>
+    <string name="hideoutNumber">Hideout Number</string>
+</resources>
